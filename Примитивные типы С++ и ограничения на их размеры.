@@ -1,0 +1,9 @@
+bool - значения типа "ложь" или "истина"
+void - Не хранит никакого значения
+char - символьный тип данных
+С плавающей точкой - float, double, long double
+и так далее
+
+Все целочисленные типы (кроме char) являются знаковыми. Беззнаковые версии типов определяется с ключевым словом unsigned, например: unsigned short int, unsigned int
+
+short int <= int <= long int <= float <= double <=long double
